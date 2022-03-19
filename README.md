@@ -6,7 +6,7 @@ Natural language processing (NLP) is a subfield of computer science, information
 
 ## Demo
 
-<img src="/demo/homepage.png" width='500px' style="text-align:center;">
+<img src="/demo/demo.png" width='500px' style="text-align:center;">
 
 ## Tech used
 
