@@ -1,8 +1,17 @@
 # Project Instructions
-https://github.com/HappySonia/natruralLanguageProcessing
-I build a web tool that allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites. NLP is the ability of an application to understand the human language, written or oral.
+
+This app allows users to run Natural Language Processing (NLP) on articles or blogs found on other websites. NLP is the ability of an application to understand the human language, written or oral.
+
+Natural language processing (NLP) is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
+
+## Demo
+
+<img src="/demo/homepage.png" width='500px' style="text-align:center;">
+
+## Tech used
 
 In this project I have involved the below :
+
 - Setting up Webpack
 - Sass styles
 - Webpack Loaders and Plugins
@@ -10,11 +19,10 @@ In this project I have involved the below :
 - Service workers
 - Using APIs and creating requests to external urls (hide the API key in .env)
 
- Natural language processing (NLP) is a subfield of computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
-
 In this project I use meaningCloud API to determine various attributes of an article or blog post.
 
 ## dependencies used in this project:
+
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
@@ -35,11 +43,6 @@ In this project I use meaningCloud API to determine various attributes of an art
         "style-loader": "^0.23.1",
         "webpack-dev-server": "^3.11.0"
 
-
 ## how to run this project
-users can input url of articles or blogs in the form then click the button submit then users can get the analysis result through the NLP API. 
 
-
-
-
-
+users can input url of articles or blogs in the form then click the button submit then users can get the analysis result through the NLP API.
