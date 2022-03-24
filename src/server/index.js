@@ -30,7 +30,7 @@ app.get('/', function(req, res) {
 
 
 app.listen(8081, function() {
-    console.log('Example app listening on port 8081!')
+    console.log('server listening on port 8081!')
 })
 
 let baseURL = "https://api.meaningcloud.com/sentiment-2.1?key=";
